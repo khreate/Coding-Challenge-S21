@@ -25,4 +25,4 @@ Regardless if you can or cannot answer the question, provide a short explanation
 
 
 ## Solution
-I attempted this program by using the DNA Features Viewer library from Edinburgh Genome Foundry (https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer). This library comes with MatPlotLib and Bio, allowing me to quickly parse the Genome.gb file and create a circular gene map for it. The gene map is (currently) not color coded, and contains the labels (eg. c1, c2, c3, v1, v2, source) and positions of genes.
+I attempted this program by using the DNA Features Viewer library from Edinburgh Genome Foundry (https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer). This library comes with MatPlotLib and Bio, allowing me to quickly parse the Genome.gb file and create a circular gene map for it. The gene map is (currently) not color coded, and contains the labels (eg. c1, c2, c3, v1, v2, source) and positions of genes. To run locally, the DNA Features Viewer library can be installed with pip install  dna-features-viewer, and the Bio library comes with it.
